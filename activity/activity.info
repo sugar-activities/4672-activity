@@ -1,0 +1,9 @@
+[Activity]
+name = Super Chef
+activity_version = 2
+host_version = 2service_name = colombiagames.sugar.superchef
+bundle_id = colombiagames.sugar.superchef
+icon = AppIcon
+show_launcher = yes
+class = LaunchFromSugar.Launcher
+exec = sugar-activity LaunchFromSugar.Launcher

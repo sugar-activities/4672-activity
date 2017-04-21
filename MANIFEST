@@ -1,0 +1,6 @@
+include *.*
+recursive-include activity *.*
+recursive-include olpcgames *.*
+recursive-include pgu *.*
+recursive-include res *.*
+recursive-include src *.*
